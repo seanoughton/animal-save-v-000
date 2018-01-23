@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media onlyscreen and (min-width: px) and (max-width: px){
+@media onlyscreen and (min-width: 406px) and (max-width: 1090px){
   #monkey {
 
   }
